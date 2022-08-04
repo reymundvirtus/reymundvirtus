@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on my skill as a Software Developer<br>
+🔭 I’m currently working on my skills as a Software Developer<br>
 🤝 I’m looking for help to Explore New Technologies<br>
 🌱 I’m currently learning more about Software Development<br>
 💬 Ask me about any tech-related stuff<br>
