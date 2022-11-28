@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...my skills as a Software Developer
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on my skills as a Software Developer<br>
+🔭 I’m currently working on my ReadyScan OCR application<br>
 🤝 I’m looking for help to Explore New Technologies<br>
 🌱 I’m currently learning more about Software Development<br>
 💬 Ask me about any tech-related stuff<br>
