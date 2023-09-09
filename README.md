@@ -15,15 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on my ReadyScan OCR application<br>
-🤝 I’m looking for help to Explore New Technologies<br>
-🌱 I’m currently learning more about Software Development<br>
 💬 Ask me about any tech-related stuff<br>
 📮 How to reach me: reymundvirtus@gmail.com<br>
 💻 Check my blog: https://medium.com/@reymundvirtus<br>
 🌐 Visit my official website: https://reymundvirtus.rf.gd<br>
-👦 Pronouns: He/His<br>
-⚡ Fun fact: My favorite movie is Big Hero 6
 
 
 ## 🌐 Socials:
