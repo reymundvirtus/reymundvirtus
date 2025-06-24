@@ -41,81 +41,11 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 #### Stats:
- <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
+<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 481.3 kB Used in GitHub's Storage 
- > 
-> 🏆 136 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 19 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-🌆 Daytime                145 commits         ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-🌃 Evening                277 commits         ███████████░░░░░░░░░░░░░░   43.21 % 
-🌙 Night                  162 commits         ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   100 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Tuesday                  123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Wednesday                135 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Friday                   104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Saturday                 61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Sunday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   31.71 % 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Dart                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/reymundvirtus/reymundvirtus/main/assets/bar_graph.png)
-
-
- Last Updated on 24/06/2025 21:29:22 UTC
-<!--END_SECTION:waka-->
+<!--START_SECTION:SHOW_LANGUAGE-->
+<!--END_SECTION:SHOW_LANGUAGE-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=reymundvirtus&icon=0&color=0)](https://visitcount.itsvg.in)
