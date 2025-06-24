@@ -41,8 +41,8 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 #### Stats:
-<!--START_SECTION:SHOW_LANGUAGE -->
-<!--END_SECTION:SHOW_LANGUAGE -->
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=reymundvirtus&icon=0&color=0)](https://visitcount.itsvg.in)
