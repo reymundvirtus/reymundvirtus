@@ -111,9 +111,25 @@ Markdown                 0 secs              ░░░░░░░░░░░�
 
 ---
 
-#### 🎯 I'm Currently Working On - <a style="text-decoration: none;" href="https://personalink-b181a.web.app/">🔗 <strong>PersonaLink</strong></a>
-<img src="https://github.com/reymundvirtus/reymundvirtus/blob/main/assets/personalink.png?raw=true" width="200"/><br>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=reymundvirtus-ph&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)]()
+<div align="center">
+  <table border="0" width: 100%;" width="100%">
+    <tr>
+      <td align="center" valign="center" width="50%">
+        <h5>🎯 I'm Currently Working On - <a href="https://personalink-b181a.web.app/" style="text-decoration: none;">
+          🔗<strong>PersonaLink</strong>
+        </a></h5>
+        <br>
+        <img src="https://github.com/reymundvirtus/reymundvirtus/blob/main/assets/personalink.png?raw=true" width="200"/>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <h5>🎧 Last Played</h5>
+        <a href="#">
+          <img width="400" src="https://spotify-github-profile.kittinanx.com/api/view?uid=reymundvirtus-ph&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=reymundvirtus&icon=0&color=0)](https://visitcount.itsvg.in)
