@@ -70,38 +70,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 #### Stats:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-🌆 Daytime                145 commits         ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-🌃 Evening                277 commits         ███████████░░░░░░░░░░░░░░   43.01 % 
-🌙 Night                  165 commits         ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   100 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Tuesday                  123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Wednesday                138 commits         █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Friday                   104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Saturday                 61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Sunday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 24/06/2025 21:47:58 UTC
+ Last Updated on 25/06/2025 18:52:27 UTC
 <!--END_SECTION:waka-->
 
 ---
