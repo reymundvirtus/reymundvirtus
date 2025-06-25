@@ -105,4 +105,8 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 
 ---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=reymundvirtus-ph&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+---
 [![](https://visitcount.itsvg.in/api?id=reymundvirtus&icon=0&color=0)](https://visitcount.itsvg.in)
