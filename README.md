@@ -1,6 +1,6 @@
 # 💥 I Am Atomic
 <details>
-  <summary><strong style="font-size: 1.17em;">🕶️ About Me</strong></summary>
+  <summary><strong>🕶️ About Me</strong></summary>
   <br/>
   I am Reymund Virtus, a full-stack engineer operating quietly and crafting systems from the shadows.
   
@@ -28,7 +28,10 @@
 
 ---
 
-### Tech Stack
+<details>
+  <summary><strong>🛠️ Tech Stack</strong></summary>
+
+  
 #### DevOps & Cloud:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) 
@@ -68,6 +71,10 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+</details>
+
+---
+
 #### Stats:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
