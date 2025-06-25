@@ -70,14 +70,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 #### Stats:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
-
-
- Last Updated on 25/06/2025 18:52:27 UTC
 <!--END_SECTION:waka-->
 
 ---
 
+#### 🎯 I'm Currently Working On - <a style="text-decoration: none;" href="https://personalink-b181a.web.app/">🔗 <strong>PersonaLink</strong></a>
+<img src="https://github.com/reymundvirtus/reymundvirtus/blob/main/assets/personalink.png?raw=true" width="200"/><br>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=reymundvirtus-ph&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)]()
 
 ---
