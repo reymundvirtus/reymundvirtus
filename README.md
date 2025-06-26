@@ -1,30 +1,27 @@
 # 💥 I Am Atomic
-<details>
-  <summary><strong>🕶️ About Me</strong></summary>
-  <br/>
-  I am Reymund Virtus, a full-stack engineer operating quietly and crafting systems from the shadows.
-  
-  I wield **TypeScript**, **Python**, and **PHP** as my core arsenal, building everything from sleek web interfaces to robust mobile solutions.  
-  I specialize in **serverless technologies**, seamlessly integrating AWS and Azure to deliver scalable, event-driven architectures.
-  
-  My realm spans the full stack, from intuitive UI interactions to data pipelines and infrastructure as code.  
-  From RESTful APIs to real-time systems, I deploy with precision and purpose.
-  
-  In the silence, I thrive.  
-  While others chase trends, I study **emerging technologies**, master them, and bend them to my will.
-  
-  > *Where others see complexity, I see patterns.*
-  
-  A mere shadow, blending into the silence, while crafting world-altering code in the dark.
-  
-  > *I don’t need recognition.* 
-  > *I don’t need applause.*  
-  > *Because in the world of systems and services...*  
-  > *I am the one who holds the architecture together.*  
-  > *I am Atomic.* 💥
 
+<strong>🕶️ About Me</strong>
 
-</details>
+I am Reymund Virtus, a full-stack engineer operating quietly and crafting systems from the shadows.
+
+I wield **TypeScript**, **Python**, and **PHP** as my core arsenal, building everything from sleek web interfaces to robust mobile solutions.  
+I specialize in **serverless technologies**, seamlessly integrating AWS and Azure to deliver scalable, event-driven architectures.
+
+My realm spans the full stack, from intuitive UI interactions to data pipelines and infrastructure as code.  
+From RESTful APIs to real-time systems, I deploy with precision and purpose.
+
+In the silence, I thrive.  
+While others chase trends, I study **emerging technologies**, master them, and bend them to my will.
+
+> *Where others see complexity, I see patterns.*
+
+A mere shadow, blending into the silence, while crafting world-altering code in the dark.
+
+> *I don’t need recognition.* 
+> *I don’t need applause.*  
+> *Because in the world of systems and services...*  
+> *I am the one who holds the architecture together.*  
+> *I am Atomic.* 💥
 
 ---
 
