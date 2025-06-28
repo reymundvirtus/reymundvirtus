@@ -135,4 +135,3 @@ Git Config               1 min               ░░░░░░░░░░░�
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=reymundvirtus&icon=0&color=0)](https://visitcount.itsvg.in)
