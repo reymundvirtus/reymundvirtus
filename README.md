@@ -114,8 +114,8 @@ Git Config               1 min               ░░░░░░░░░░░�
 
 ---
 
-<div align="center">
-  <table border="0" width: 100%;" width="100%">
+<div align="left" width="100%">
+  <table>
     <tr>
       <td align="center" valign="center" width="50%">
         <h5>🎯 I'm Currently Working On - <a href="https://personalink-b181a.web.app/" style="text-decoration: none;">
@@ -127,7 +127,7 @@ Git Config               1 min               ░░░░░░░░░░░�
       <td align="center" valign="top" width="50%">
         <h5>🎧 Last Played</h5>
         <a href="#">
-          <img width="400" src="https://spotify-github-profile.kittinanx.com/api/view?uid=reymundvirtus-ph&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+          <img width="400" src="https://spotify-github-profile.kittinanx.com/api/view?uid=reymundvirtus-ph&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" />
         </a>
       </td>
     </tr>
