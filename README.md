@@ -114,7 +114,7 @@ Git Config               1 min               ░░░░░░░░░░░�
 
 ---
 
-<div align="left" width="100%">
+<div align="center" width="100%">
   <table>
     <tr>
       <td align="center" valign="center" width="50%">
