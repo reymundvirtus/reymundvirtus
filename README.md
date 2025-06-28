@@ -1,7 +1,8 @@
 # 💥 I Am Atomic
 
-<strong>🕶️ About Me</strong>
-
+<details>
+  <summary><strong>🕶️ About Me</strong></summary>
+<br/>
 I am Reymund Virtus, a full-stack engineer operating quietly and crafting systems from the shadows.
 
 I wield **TypeScript**, **Python**, and **PHP** as my core arsenal, building everything from sleek web interfaces to robust mobile solutions.  
@@ -22,6 +23,8 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 > *Because in the world of systems and services...*  
 > *I am the one who holds the architecture together.*  
 > *I am Atomic.* 💥
+
+</details>
 
 ---
 
