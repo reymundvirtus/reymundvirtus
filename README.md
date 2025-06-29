@@ -125,7 +125,12 @@ Git Config               1 min               ░░░░░░░░░░░�
         <img src="https://github.com/reymundvirtus/reymundvirtus/blob/main/assets/personalink.png?raw=true" width="200"/>
       </td>
       <td align="center" valign="top" width="50%">
-        <h5>🎧 Last Played</h5>
+        <br />
+        <strong align="center">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="Spotify" width="15">&nbsp; Last Played
+        </strong>
+        <br />
+        <br />
         <a href="#">
           <img width="400" src="https://spotify-github-profile.kittinanx.com/api/view?uid=reymundvirtus-ph&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" />
         </a>
