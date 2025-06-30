@@ -72,7 +72,7 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 ![React Native](https://img.shields.io/badge/React_Native-%23000000?style=flat-square&logo=react&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84?style=flat-square&logo=android-studio&logoColor=white) 
 #### Developer Tools:
-![Git](https://img.shields.io/badge/git-%23F05032?style=flat-square&logo=git&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230052CC?style=flat-square&logo=Bitbucket&logoColor=white) 
 ![Jira Software](https://img.shields.io/badge/Jira_Software-%230052CC?style=flat-square&logo=jira-software&logoColor=white) 
