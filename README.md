@@ -77,6 +77,7 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230052CC?style=flat-square&logo=Bitbucket&logoColor=white) 
 ![Jira Software](https://img.shields.io/badge/Jira_Software-%230052CC?style=flat-square&logo=jira-software&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white) 
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143?style=flat-square&logo=Neovim&logoColor=white) 
 </details>
 
 ---
