@@ -61,7 +61,7 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 #### Frontend:
 ![Next JS](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white) 
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23000000?style=flat-square&logo=shadcn%2Fui&logoColor=white) 
-![React](https://img.shields.io/badge/React-%23000000?style=flat-square&logo=react&logoColor=white) 
+![React](https://img.shields.io/badge/React-%2300d8fe?style=flat-square&logo=react&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238819fd?style=flat-square&logo=Bootstrap&logoColor=white) 
@@ -69,7 +69,7 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 #### Mobile Development:
 ![Flutter](https://img.shields.io/badge/Flutter-%232fb8f6?style=flat-square&logo=flutter&logoColor=white) 
 ![Expo](https://img.shields.io/badge/Expo-%231C2024?style=flat-square&logo=expo&logoColor=white) 
-![React Native](https://img.shields.io/badge/React_Native-%23000000?style=flat-square&logo=react&logoColor=white) 
+![React Native](https://img.shields.io/badge/React_Native-%2300d8fe?style=flat-square&logo=react&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84?style=flat-square&logo=android-studio&logoColor=white) 
 #### Developer Tools:
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white) 
@@ -78,6 +78,13 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 ![Jira Software](https://img.shields.io/badge/Jira_Software-%230052CC?style=flat-square&logo=jira-software&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white) 
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143?style=flat-square&logo=Neovim&logoColor=white) 
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-%23000000?style=flat-square&logo=github-copilot&logoColor=white) 
+#### AI Tools:
+![v0](https://img.shields.io/badge/v0-%23000000?style=flat-square&logo=v0&logoColor=white) 
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-%23697ccc?style=flat-square&logo=google-gemini&logoColor=white) 
+![OpenAI](https://img.shields.io/badge/OpenAI-%230ea982?style=flat-square&logo=openai&logoColor=white) 
+![Claude](https://img.shields.io/badge/Claude-%23D97757?style=flat-square&logo=claude&logoColor=white) 
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-%23258671?style=flat-square&logoColor=white) 
 </details>
 
 ---
