@@ -1,7 +1,7 @@
-# 💥 I Am Atomic
+# 👤 I Am Shadow
 
 <details>
-  <summary><strong>🕶️ About Me</strong></summary>
+  <summary><strong>🌑 About Me</strong></summary>
 <br/>
 I am Reymund Virtus, a full-stack engineer operating quietly and crafting systems from the shadows.
 
