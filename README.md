@@ -48,7 +48,6 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 ![NodeJS](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=flat-square&logo=express&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white) 
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223?style=flat-square&logo=codeigniter&logoColor=white) 
 #### Database:
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545?style=flat-square&logo=mariaDB&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white) 
@@ -57,7 +56,6 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 ![Neo4J](https://img.shields.io/badge/Neo4j-%234581C3?style=flat-square&logo=neo4j&logoColor=white) 
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-3b48cc?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-%23FF4438?style=flat-square&logo=redis&logoColor=white) 
 #### Frontend:
 ![Next JS](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white) 
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23000000?style=flat-square&logo=shadcn%2Fui&logoColor=white) 
@@ -78,12 +76,13 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 ![Jira Software](https://img.shields.io/badge/Jira_Software-%230052CC?style=flat-square&logo=jira-software&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white) 
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143?style=flat-square&logo=Neovim&logoColor=white) 
+![Tmux](https://img.shields.io/badge/Tmux-%231BB91F?style=flat-square&logo=tmux&logoColor=white) 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-%23000000?style=flat-square&logo=github-copilot&logoColor=white) 
 #### AI Tools:
 ![v0](https://img.shields.io/badge/v0-%23000000?style=flat-square&logo=v0&logoColor=white) 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-%23697ccc?style=flat-square&logo=google-gemini&logoColor=white) 
+![Gemini](https://img.shields.io/badge/Gemini-%23697ccc?style=flat-square&logo=google-gemini&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-%230ea982?style=flat-square&logo=openai&logoColor=white) 
-![Claude](https://img.shields.io/badge/Claude-%23D97757?style=flat-square&logo=claude&logoColor=white) 
+![Anthropic](https://img.shields.io/badge/Anthropic-%23D97757?style=flat-square&logo=claude&logoColor=white) 
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-%23258671?style=flat-square&logoColor=white) 
 </details>
 
