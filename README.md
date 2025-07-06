@@ -24,7 +24,7 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 > *I am the one who holds the architecture together.*  
 > *I am Atomic.* 💥
 
-Contact shadow here: [![Proton](https://img.shields.io/badge/Proton-%236D4AFF?style=flat-square&logo=proton&logoColor=white)](mailto:rvirtus@proton.me)
+##### *Contact shadow here:* [![Proton](https://img.shields.io/badge/Proton-%236D4AFF?style=flat-square&logo=proton&logoColor=white)](mailto:rvirtus@proton.me)
 
 </details>
 
