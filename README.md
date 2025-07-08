@@ -69,7 +69,6 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 #### Mobile Development:
 ![Flutter](https://img.shields.io/badge/Flutter-%232fb8f6?style=flat-square&logo=flutter&logoColor=white) 
 ![Expo](https://img.shields.io/badge/Expo-%231C2024?style=flat-square&logo=expo&logoColor=white) 
-![React Native](https://img.shields.io/badge/React_Native-%2300d8fe?style=flat-square&logo=react&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84?style=flat-square&logo=android-studio&logoColor=white) 
 #### Developer Tools:
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white) 
