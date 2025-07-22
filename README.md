@@ -46,26 +46,26 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=django&logoColor=white) 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastAPI&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=flat-square&logo=express&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white) 
+<!-- ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) --> 
 #### Database:
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545?style=flat-square&logo=mariaDB&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=PostgreSQL&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=white) 
-![Neo4J](https://img.shields.io/badge/Neo4j-%234581C3?style=flat-square&logo=neo4j&logoColor=white) 
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-3b48cc?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white) 
+<!-- ![Neo4J](https://img.shields.io/badge/Neo4j-%234581C3?style=flat-square&logo=neo4j&logoColor=white) -->
 #### Frontend:
 ![Next JS](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white) 
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23000000?style=flat-square&logo=shadcn%2Fui&logoColor=white) 
 ![React](https://img.shields.io/badge/React-%2300d8fe?style=flat-square&logo=react&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238819fd?style=flat-square&logo=Bootstrap&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white) 
+<!-- ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white) -->
+<!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238819fd?style=flat-square&logo=Bootstrap&logoColor=white) -->
 #### Mobile Development:
 ![Flutter](https://img.shields.io/badge/Flutter-%232fb8f6?style=flat-square&logo=flutter&logoColor=white) 
 ![Expo](https://img.shields.io/badge/Expo-%231C2024?style=flat-square&logo=expo&logoColor=white) 
@@ -83,8 +83,8 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 ![v0](https://img.shields.io/badge/v0-%23000000?style=flat-square&logo=v0&logoColor=white) 
 ![Gemini](https://img.shields.io/badge/Gemini-%23697ccc?style=flat-square&logo=google-gemini&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-%230ea982?style=flat-square&logo=openai&logoColor=white) 
-![Anthropic](https://img.shields.io/badge/Anthropic-%23D97757?style=flat-square&logo=claude&logoColor=white) 
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-%23258671?style=flat-square&logoColor=white) 
+<!-- ![Anthropic](https://img.shields.io/badge/Anthropic-%23D97757?style=flat-square&logo=claude&logoColor=white) -->
 </details>
 
 ---
