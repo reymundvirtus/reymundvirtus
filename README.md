@@ -79,8 +79,9 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143?style=flat-square&logo=Neovim&logoColor=white) 
 ![Tmux](https://img.shields.io/badge/Tmux-%231BB91F?style=flat-square&logo=tmux&logoColor=white) 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-%23000000?style=flat-square&logo=github-copilot&logoColor=white) 
-#### AI Tools:
 ![v0](https://img.shields.io/badge/v0-%23000000?style=flat-square&logo=v0&logoColor=white) 
+#### AI:
+![Static Badge](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain&logoColor=white) 
 ![Gemini](https://img.shields.io/badge/Gemini-%23697ccc?style=flat-square&logo=google-gemini&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-%230ea982?style=flat-square&logo=openai&logoColor=white) 
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-%23258671?style=flat-square&logoColor=white) 
