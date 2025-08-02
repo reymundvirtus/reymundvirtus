@@ -5,7 +5,7 @@
 <br/>
 I am Reymund Virtus, a full-stack engineer operating quietly and crafting systems from the shadows.
 
-I wield **TypeScript**, **Python**, and **PHP** as my core arsenal, building everything from sleek web interfaces to robust mobile solutions.  
+I wield **Python**, **TypeScript**, and **PHP** as my core arsenal, building everything from sleek web interfaces to robust mobile solutions.  
 I specialize in **serverless technologies**, seamlessly integrating AWS and Azure to deliver scalable, event-driven architectures.
 
 My realm spans the full stack, from intuitive UI interactions to data pipelines and infrastructure as code.  
