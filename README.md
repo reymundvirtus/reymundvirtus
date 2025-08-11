@@ -76,10 +76,10 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230052CC?style=flat-square&logo=Bitbucket&logoColor=white) 
 ![Jira Software](https://img.shields.io/badge/Jira_Software-%230052CC?style=flat-square&logo=jira-software&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white) 
-![Neovim](https://img.shields.io/badge/Neovim-%2357A143?style=flat-square&logo=Neovim&logoColor=white) 
-![Tmux](https://img.shields.io/badge/Tmux-%231BB91F?style=flat-square&logo=tmux&logoColor=white) 
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143?style=flat-square&logo=Neovim&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-%23000000?style=flat-square&logo=github-copilot&logoColor=white) 
-![v0](https://img.shields.io/badge/v0-%23000000?style=flat-square&logo=v0&logoColor=white) 
+![v0](https://img.shields.io/badge/v0-%23000000?style=flat-square&logo=v0&logoColor=white)  
+<!-- ![Tmux](https://img.shields.io/badge/Tmux-%231BB91F?style=flat-square&logo=tmux&logoColor=white)  -->
 #### AI:
 ![Static Badge](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain&logoColor=white) 
 ![Gemini](https://img.shields.io/badge/Gemini-%23697ccc?style=flat-square&logo=google-gemini&logoColor=white) 
