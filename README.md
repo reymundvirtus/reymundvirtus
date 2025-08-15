@@ -56,7 +56,8 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=PostgreSQL&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=white) 
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-3b48cc?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white) 
+![AmazonNeptune](https://img.shields.io/badge/Amazon_Neptune-%233a48cd?style=flat-square) 
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white) -->
 <!-- ![Neo4J](https://img.shields.io/badge/Neo4j-%234581C3?style=flat-square&logo=neo4j&logoColor=white) -->
 #### Frontend:
 ![Next JS](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white) 
