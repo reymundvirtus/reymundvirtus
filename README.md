@@ -137,7 +137,7 @@ Text                     0 secs              ░░░░░░░░░░░�
   <table>
     <tr>
       <td align="left" valign="center" width="50%">
-        <h5 align="center">🎯 I'm Currently Working On</h5>
+        <h5 align="center">🎯 Projects I'm Building & Maintaining</h5>
           <hr />
           &emsp;&emsp;🔗 <a href="https://zume.reymundvirtus.com/" style="text-decoration: none;"><strong>Zume: AI-Powered Resume Builder</strong></a>
           <br />
