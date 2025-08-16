@@ -136,20 +136,23 @@ Text                     0 secs              ░░░░░░░░░░░�
 <div align="center" width="100%">
   <table>
     <tr>
-      <td align="center" valign="center" width="50%">
-        <h5>🎯 I'm Currently Working On - <a href="https://personalink-b181a.web.app/" style="text-decoration: none;">
-          🔗<strong>PersonaLink</strong>
-        </a></h5>
-        <br>
-        <img src="https://github.com/reymundvirtus/reymundvirtus/blob/main/assets/personalink.png?raw=true" width="200"/>
+      <td align="left" valign="center" width="50%">
+        <h5 align="center">🎯 I'm Currently Working On</h5>
+          <hr />
+          &emsp;&emsp;🔗 <a href="https://zume.reymundvirtus.com/" style="text-decoration: none;"><strong>Zume: AI-Powered Resume Builder</strong></a>
+          <br />
+          &emsp;&emsp;🔗 <a href="https://personalink-b181a.web.app/" style="text-decoration: none;"><strong>PersonaLink</strong></a>
+          <br />
+          &emsp;&emsp;🔗 <a href="#" style="text-decoration: none; color: blue;"><strong>RephraseIt (Coming Soon 🚀)</strong></a>
+        <br />
+        <br />
+        <br />
       </td>
       <td align="center" valign="top" width="50%">
-        <br />
-        <strong align="center">
+        <h5 align="center">
           <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="Spotify" width="15">&nbsp; Last Played
-        </strong>
-        <br />
-        <br />
+        </h5>
+          <hr />
         <a href="#">
           <img width="400" src="https://spotify-github-profile.kittinanx.com/api/view?uid=reymundvirtus-ph&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" />
         </a>
