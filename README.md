@@ -91,7 +91,10 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 
 ---
 
-#### Stats:
+<details>
+  <summary><strong>🔮 Stats</strong></summary>
+<br/>
+  
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -126,6 +129,7 @@ Text                     0 secs              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+</details>
 
 ---
 
