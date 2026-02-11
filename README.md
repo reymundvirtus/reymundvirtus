@@ -116,7 +116,7 @@ Sunday                   100 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
