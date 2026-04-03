@@ -139,7 +139,7 @@ Git Config               4 mins              █░░░░░░░░░░�
           <br />
           &emsp;&emsp;🔗 <a href="https://personalink-b181a.web.app/" style="text-decoration: none;"><strong>PersonaLink</strong></a>
           <br />
-          &emsp;&emsp;🔗 <a href="#" style="text-decoration: none; color: blue;"><strong>RephraseIt (Coming Soon 🚀)</strong></a>
+          &emsp;&emsp;🔗 <a href="#" style="text-decoration: none; color: blue;"><strong>AgentOS (Coming Soon 🚀)</strong></a>
         <br />
         <br />
         <br />
