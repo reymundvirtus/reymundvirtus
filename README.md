@@ -91,6 +91,38 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 <br/>
   
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+🌆 Daytime                173 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+🌃 Evening                323 commits         ████████░░░░░░░░░░░░░░░░░   32.76 % 
+🌙 Night                  350 commits         █████████░░░░░░░░░░░░░░░░   35.50 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Tuesday                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Wednesday                204 commits         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Thursday                 127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Friday                   149 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Saturday                 92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Sunday                   101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               3 hrs 31 mins       ███████████████████░░░░░░   75.12 % 
+CSS                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+```
+
 
 <!--END_SECTION:waka-->
 </details>
