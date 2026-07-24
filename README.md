@@ -91,34 +91,6 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 <br/>
   
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-🌆 Daytime                176 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-🌃 Evening                325 commits         ████████░░░░░░░░░░░░░░░░░   32.76 % 
-🌙 Night                  351 commits         █████████░░░░░░░░░░░░░░░░   35.38 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Tuesday                  155 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Wednesday                207 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Thursday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Friday                   148 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Saturday                 91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Sunday                   102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 </details>
