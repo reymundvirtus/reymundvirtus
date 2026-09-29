@@ -118,7 +118,7 @@ Sunday                   102 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
