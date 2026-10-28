@@ -118,7 +118,9 @@ Sunday                   102 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+TypeScript               1 hr 17 mins        ████████████████████████░   97.55 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 
 🤖 **AI Coding This Week** 
