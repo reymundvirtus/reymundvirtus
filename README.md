@@ -143,7 +143,7 @@ No AI Coding Activity Tracked This Week
           <hr />
           &emsp;&emsp;🔗 <a href="https://zume.reymundvirtus.com/" style="text-decoration: none;"><strong>Zume: AI-Powered Resume Builder</strong></a>
           <br />
-          &emsp;&emsp;🔗 <a href="(https://kakeibo.reymundvirtus.com/" style="text-decoration: none;"><strong>Kakeibo</strong></a>
+          &emsp;&emsp;🔗 <a href="https://kakeibo.reymundvirtus.com/" style="text-decoration: none;"><strong>Kakeibo</strong></a>
           <br />
           &emsp;&emsp;🔗 <a href="#" style="text-decoration: none; color: blue;"><strong>Theseus (Coming Soon 🚀)</strong></a>
         <br />
