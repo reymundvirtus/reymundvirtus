@@ -96,21 +96,21 @@ A mere shadow, blending into the silence, while crafting world-altering code in 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-🌆 Daytime                176 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-🌃 Evening                327 commits         ████████░░░░░░░░░░░░░░░░░   32.80 % 
-🌙 Night                  354 commits         █████████░░░░░░░░░░░░░░░░   35.51 % 
+🌞 Morning                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+🌆 Daytime                200 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+🌃 Evening                369 commits         █████████░░░░░░░░░░░░░░░░   34.36 % 
+🌙 Night                  365 commits         ████████░░░░░░░░░░░░░░░░░   33.99 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Tuesday                  157 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Wednesday                210 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-Thursday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Friday                   148 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Saturday                 91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Sunday                   102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Monday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Tuesday                  162 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Wednesday                220 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Thursday                 189 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Friday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Saturday                 91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Sunday                   102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
 ```
 
 
@@ -118,15 +118,33 @@ Sunday                   102 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 17 mins        ████████████████████████░   97.55 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+TypeScript               4 hrs 50 mins       ███████████████████░░░░░░   74.51 % 
+SQL                      57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+TSConfig                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 52 mins (74.94%)
+
+✍️ 4,793 lines written by AI, 4,249 lines written by hand (53.01% AI-written)
+
+🔤 506,613 Input Tokens, 269,531 Output Tokens
+
+💵 $12.43 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 98 AI Prompts
+
+Sonnet                   4,983 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 53.01% of written lines came from AI
+📝 Concise Prompter — average 330 characters per prompt
+🔁 Iterative Prompter — average 49 prompts per session
+🔍 Hands-On Reviewer — 54.46% of changed lines were hand-edited
 ```
 
 
